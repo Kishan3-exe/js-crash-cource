@@ -1,6 +1,7 @@
-/* Comment
+/* Comment 
+
     !  red  ( New topic )
-    ?  blue (Topic sub Part)
+    ?  blue eyes(Topic sub Part)
     * green   
     ^ yellow
     & pink   (points)
